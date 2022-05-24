@@ -46,3 +46,12 @@ anagrams('superintended', 'unpredestined');
 anagrams('pictorialness', 'documentarily');
 anagrams('Aidin', 'dinAi');
 anagrams('qoewhrwo', 'sdfjghrwoghfqo');
+
+//Challenge4:
+
+// function uniqueChar(string) {
+//     var unique = '';
+// }
+// uniqueChar('abdacabad');
+
+// Will come back to this
